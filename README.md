@@ -41,3 +41,4 @@ Ideal para servidores que buscan un sistema de control eficiente, fácil de usar
 
 ```cfg
 ensure ox_lib
+ensure giani_adminmenu
