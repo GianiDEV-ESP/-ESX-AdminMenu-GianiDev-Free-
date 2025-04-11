@@ -3,6 +3,8 @@
 Un menú de administración completo, moderno y gratuito para servidores **ESX Legacy**, creado con ❤️ por **GianiDev**.  
 Ideal para servidores que buscan un sistema de control eficiente, fácil de usar y visualmente atractivo, basado en `ox_lib`.
 
+![Preview](https://i.postimg.cc/RFwJQKMW/Proyecto-nuevo-4.png)
+
 ---
 
 ## 🎮 Características principales
